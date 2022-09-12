@@ -2,21 +2,22 @@
 I was tasked with analyzing temperature trends for the months of June and December for Oahu, Hawaii. This analysis sets out to determine if Oahu is a good location to open a surf/ice cream shop. A good location will allow the shop to remain open year round with consistent business by providing the right climate.
 
 ## Results
-As you can see in the image below, the minimum temperature recorded for June is 64 degrees on average while the high temperature recorded is 85. You can also see the average temperature in Oahu in June is 75 degrees. 
-
--insert image for June
+As you can see in the image below, the minimum temperature recorded for June is 64 degrees on average while the high temperature recorded is 85. You can also see the average temperature in Oahu in June is 75 degrees.
+ 
+![picture alt](https://github.com/billy-bartlett/surfs_up/blob/main/Surfs_Up-Challenge/Resources/June-Temps-Summary-Statistic.png)
 
 Looking at December, the minimum temperature recorded for December is 56 degrees while the high temperature is 83. We can also see the average temperature in Oahu in December is 71 degrees. 
 
--insert image for December
+![picture alt](https://github.com/billy-bartlett/surfs_up/blob/main/Surfs_Up-Challenge/Resources/Dec-Temps-Summary-Statistic.png)
 
 These results show us the following:
 * The temperature in Oahu may sometimes be too cold for surfing and eating ice cream, but overall, it's a great climate for the a surf/ice cream shop
 * Sales will likely be consistent throughout the year in Oahu regardless of month as the average temperatures in June and December are 75 degrees and 71 degrees respectively
 * Looking at the graphs below, you can see a consistent temperature. This consistency will most likely lead to increased tourist travel. Any sales declines due to the surf season slowing down will most likely level out with tourist sales.
 
+![picture alt](https://github.com/billy-bartlett/surfs_up/blob/main/Surfs_Up-Challenge/Resources/June-Temps-PlotChart.png)
 
--insert graphs
+![picture alt](https://github.com/billy-bartlett/surfs_up/blob/main/Surfs_Up-Challenge/Resources/Dec-Temps-PlotChart.png)
 
 ## Summary
 Looking at the analysis, it's clear that Oahu is fantastic location to open a surf/ice cream shop. The temperature data shows a consistent temperature throughout the year averaging in the mid 70's. This temp range will ensure the shop has plenty of business. 
